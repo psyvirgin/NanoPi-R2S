@@ -1,5 +1,5 @@
 ## 20201010
-* first compile by myself
+* first compile by 2nd
 
 ## 20200909
 * 更新 SmartDNS
