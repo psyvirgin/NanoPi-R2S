@@ -1,3 +1,6 @@
+## 20201010
+* first compile
+
 ## 20200909
 * 更新 SmartDNS
 
