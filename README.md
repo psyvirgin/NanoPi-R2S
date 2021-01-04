@@ -1,4 +1,4 @@
-# 使用 Github Actions 在线编译 NanoPi-R2S 固件
+# 使用 Github Actions 在线编译 NanoPi-R2S 固件 1.0
 
 * NanoPi R2S CNC 官方金属壳版 购买链接: [https://s.click.taobao.com/ZPSFRyu](https://s.click.taobao.com/ZPSFRyu) 
 * 推荐朗科 32G TF 卡 ￥17.90 购买链接: [https://u.jd.com/1mAGW7](https://u.jd.com/1mAGW7)
